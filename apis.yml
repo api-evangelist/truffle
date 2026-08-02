@@ -1,22 +1,62 @@
 aid: truffle
 name: Truffle
-description: Truffle is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Truffle is an AI-native restaurant operating system building "the autonomous
+  back of house for restaurants" — one platform to manage an entire restaurant
+  operation more profitably. The company, a Y Combinator (Summer 2026) portfolio
+  company operating at usetruffle.ai, positions its product as an autonomous
+  back-of-house layer that unifies the operational and administrative work that
+  normally sprawls across separate tools. As of this profile Truffle is a very
+  early-stage company presenting a single marketing landing page; it publishes no
+  public API, developer documentation, SDKs, CLI, or other machine-readable
+  developer surface, so this API Evangelist profile captures its identity and
+  probed domain-security posture and will be re-enriched as a developer surface
+  emerges.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.usetruffle.ai/favicon-192x192.png
 url: https://raw.githubusercontent.com/api-evangelist/truffle/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - y-combinator
+x-yc-batch: Summer 2026
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Restaurants
+- Hospitality
+- Restaurant Management
+- Back Office
+- Restaurant Operations
+- Artificial Intelligence
+- SaaS
 apis: []
+common:
+- type: Website
+  url: https://www.usetruffle.ai/
+- type: DomainSecurity
+  url: security/truffle-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
