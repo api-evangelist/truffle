@@ -1,0 +1,29 @@
+# Front Door AI Index — truffle — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: truffle
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.usetruffle.ai
+  final_host: joinmarble.ai
+  ownership: own
+  owner: truffle
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 8
+  host_score: 8
+  density: 10.91
+  words: 733
+  tiers:
+    agentic: 4
+    core: 4
+    model: 0
+  ambiguous: 2
+  top_terms:
+    AI: 4
+    agentic: 3
+    agent: 1
+    copilot: 1
+    intelligence: 1
